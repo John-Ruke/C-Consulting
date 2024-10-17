@@ -1,3 +1,8 @@
+
+/* Universal font*/
+*body{
+  font-family:"Audiowide", sans-serif ;
+}
 /* Navbar container */
 .navbar {
   overflow: hidden;
